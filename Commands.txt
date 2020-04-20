@@ -1,0 +1,47 @@
+
+  Id CommandLine
+  -- -----------
+   1 git
+   2 clear
+   3 cd .\Desktop\
+   4 cd .\StudyMaterial-master\
+   5 ls
+   6 vi .\README.md
+   7 cat .\README.md
+   8 pwd
+   9 git branch
+  10 git branch
+  11 git help
+  12 git pull https://github.com/sruthisudarsanan/StudyMaterial.git
+  13 git clone https://github.com/sruthisudarsanan/StudyMaterial.git
+  14 clear
+  15 ls
+  16 cd .\StudyMaterial\
+  17 ls
+  18 cat .\README.md
+  19 git branch
+  20 git help
+  21 git status
+  22 ls
+  23 touch Sruthi.txt
+  24 vim Sruthi.txt
+  25 cat Sruthi.txt
+  26 add Sruthi.txt
+  27 git add .
+  28 ls
+  29 git commit -m "heloworld added"
+  30 git pull origin master
+  31 git push origin master
+  32 git pull origin master
+  33 cat .\README.md
+  34 git push
+  35 git add .\README.md
+  36 git commit -m "India added"
+  37 git push
+  38 ls
+  39 cat .\Sruthi.txt
+  40 ls
+  41 git add .\Sruthi.txt
+  42 git commit -m "Sruthi Added"
+  43 ls
+  44 git push
